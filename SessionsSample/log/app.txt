@@ -1,0 +1,20 @@
+2016-05-26 12:43:14,529 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:14,545 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:14,545 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:15,009 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:15,009 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:15,833 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:15,833 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:15,998 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:15,998 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:16,415 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:16,415 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:17,353 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:17,353 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:17,361 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:17,361 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:17,723 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:17,723 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:17,889 INFO FileAppenderSLF4j [main] simple logging 
+2016-05-26 12:43:17,889 DEBUG FileAppenderSLF4j [main] This is debug..
+2016-05-26 12:43:18,546 INFO FileAppenderSLF4j [main] simple logging 
