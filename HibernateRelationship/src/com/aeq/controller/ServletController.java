@@ -37,11 +37,11 @@ public class ServletController extends HttpServlet {
 		employeeBean.setName("shoba");
 		employeeBean.setEmail("annalsam165@gmail.com");
 		AddressBean addressBean=new AddressBean();
-		addressBean.setAddresline1("621,East Street,Keelaneduvai");
+		addressBean.setAddresline1("621,East Street,VaradarajanPettai");
 		addressBean.setCity("Jeyankondam");
 		addressBean.setState("Tamil Nadu");
 		addressBean.setCountry("India");
-		addressBean.setPincode(621805);
+		addressBean.setPincode(621809);
 
 		employeeBean.setAddress(addressBean);
 		addressBean.setEmployee(employeeBean);
