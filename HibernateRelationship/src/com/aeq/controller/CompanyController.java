@@ -27,7 +27,7 @@ public class CompanyController extends HttpServlet
 		addressBean.setCity("Jeyankondam");
 		addressBean.setState("Tamil Nadu");
 		addressBean.setCountry("India");
-		addressBean.setPincode(621805);
+		addressBean.setPincode(621809);
 
 		employeeBean.setAddress(addressBean);
 		addressBean.setEmployee(employeeBean);
